@@ -1,4 +1,5 @@
 Predicting Purchase Intent of Customers for Targeted Marketing Using Clickstream Data
+
 Project Objectives
 This project focuses on analyzing customer journey sequences from e-commerce clickstream data of customers in Indonesia to improve targeted advertising and enhance user experience. The goal is to determine whether a browsing session leads to a purchase, framing the problem as a binary classification task.
 
