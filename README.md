@@ -22,6 +22,9 @@ The final dataset is a cleaned, merged, and enriched representation of user sess
 
 Model Selection Process:
 Light Gradient Boosting on ElasticNet Predictions (Best)
+
 eXtreme Gradient Boosted Trees Classifier with Early Stopping (Fast Feature Binning)
+
 RandomForest Classifier (Gini)
+
 Keras Slim Residual Neural Network Classifier using Training Schedule (1 Layer: 64 Units)
